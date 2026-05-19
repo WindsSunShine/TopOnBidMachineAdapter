@@ -1,0 +1,2 @@
+# TopOnBidMachineAdapter
+BidMachineAdapter
